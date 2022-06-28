@@ -1,0 +1,14 @@
+aiohttp==3.8.1
+aiosignal==1.2.0
+altgraph==0.17.2
+async-timeout==4.0.2
+attrs==21.4.0
+charset-normalizer==2.1.0
+colorlog==6.6.0
+frozenlist==1.3.0
+hikari==2.0.0.dev109
+idna==3.3
+multidict==6.0.2
+pyinstaller==5.1
+pyinstaller-hooks-contrib==2022.7
+yarl==1.7.2
