@@ -1,6 +1,7 @@
 import hikari
+import os
 
-bot = hikari.GatewayBot(token="OTkxMjg4Njk1OTU1MTMyNTE4.GTOTc5.0CqLmwVYTBozrcct_ddM7KHAwtoGU-ZC8B-7yw")
+bot = hikari.GatewayBot(token=os.environ['DISCORD_TOKEN'])
 
 print('Starting bot...')
 
